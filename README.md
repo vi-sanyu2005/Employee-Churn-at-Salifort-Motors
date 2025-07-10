@@ -1,4 +1,6 @@
 #   Salifort Motors HR Analytics Capstone
+[View salifort Dataset on Kaggle]([https://www.kaggle.com/datasets/olistbr/brazilian-ecommerce](https://www.kaggle.com/datasets/mfaisalqureshi/hr-analytics-and-job-prediction?select=HR_comma_sep.csv))
+
 
 ##  Project Overview
 This project was completed as part of the **Google Advanced Data Analytics Professional Certificate Capstone**. The objective is to analyze employee data from **Salifort Motors**, a large consulting company, to understand factors that lead to employee turnover and to develop a predictive model that helps the HR department proactively retain employees.
