@@ -1,5 +1,5 @@
 #   Salifort Motors HR Analytics Capstone
-[View salifort Dataset on Kaggle]([https://www.kaggle.com/datasets/olistbr/brazilian-ecommerce](https://www.kaggle.com/datasets/mfaisalqureshi/hr-analytics-and-job-prediction?select=HR_comma_sep.csv))
+[View salifort Dataset on Kaggle](https://www.kaggle.com/datasets/olistbr/brazilian-ecommerce](https://www.kaggle.com/datasets/mfaisalqureshi/hr-analytics-and-job-prediction?select=HR_comma_sep.csv)
 
 
 ##  Project Overview
